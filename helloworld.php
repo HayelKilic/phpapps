@@ -11,5 +11,5 @@ echo $tekst;
 echo $tekst;
 echo $tekst;
 
-
+echo "test test"
 ?>
