@@ -21,6 +21,9 @@ echo "$getal1 / $getal2 = ".$quotient;
 echo "\n";
 
 $rest=$getal1 % $getal2;
+echo "$getal1 % $getal2 = ".$rest;
+echo "\n";
+
 ?>
 
 
